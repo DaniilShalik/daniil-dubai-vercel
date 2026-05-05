@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "owners": "For Owners",
+    "buyers": "For End Users",
+    "tenants": "For Investors",
+    "insights": "Insights",
+    "about": "About",
+    "contact": "Contact",
+    "skipToContent": "Skip to content"
+  },
+  "home": {
+    "eyebrow": "Daniil Shalabaev · Whitewill · Dubai",
+    "heroTitle": "Dubai real estate — for owners, end users, and investors.",
+    "heroSub": "A clear process, accurate numbers, weekly reporting. Whitewill · True Broker (Bayut) · SuperAgent (Property Finder) · King's College London graduate · Master's in International Business Management · Background in corporate finance. Working in English and Russian.",
+    "ctaOwner": "I'm an owner",
+    "ctaBuyer": "I'm an end user",
+    "ctaTenant": "I'm an investor",
+    "pathEyebrow": "Paths",
+    "pathTitle": "What brings you here",
+    "pathSub": "Three workstreams — each with its own focus and timeline. Pick the closest fit and I'll walk you through what happens next.",
+    "pathLink": "Read more",
+    "pathOwners": "Owners",
+    "pathOwnersSub": "Close in 30–45 days at market price.",
+    "pathBuyers": "End Users",
+    "pathBuyersSub": "Curated to your goals and budget, with off-market access.",
+    "pathTenants": "Investors",
+    "pathTenantsSub": "Yield-focused properties with full ROI maths and a planned exit.",
+    "trustTitle": "Accreditations & affiliations",
+    "listingsEyebrow": "Live inventory",
+    "listingsTitle": "What's currently in play",
+    "listingsSub": "A few properties from the active book. Full inventory on my Property Finder and Bayut profiles.",
+    "listingsViewAll": "All listings on Property Finder",
+    "listingsViewAllBayut": "Bayut profile",
+    "offmarketEyebrow": "Off-market & distressed",
+    "offmarketTitle": "Deals that never reach public search",
+    "offmarketBody": "Alongside the public book I work on transactions that don't get listed: distressed positions, accelerated sales, private offerings from owners and through the broker network. If you need that kind of entry into the market — or, on the other side, a discreet exit — get in touch and I'll share what's currently on the table.",
+    "offmarketCta": "Request the private list",
+    "insightsTeaserTitle": "Latest insights",
+    "insightsTeaserSub": "Short, sharp pieces on the Dubai market — no fluff.",
+    "metaTitle": "Daniil Shalabaev · Real estate broker in Dubai · Whitewill",
+    "metaDescription": "Buy, sell, and invest in Dubai real estate. True Broker (Bayut) and SuperAgent (Property Finder) certified. King's College London. Bilingual EN/RU."
+  },
+  "owners": {
+    "metaTitle": "For Owners · Sell your Dubai property in 30–45 days",
+    "metaDescription": "Sell Dubai property in 30–45 days at market price. Professional listing presentation, real marketing plan, weekly reports, qualified buyer pipeline.",
+    "heroTitle": "Sell your Dubai property on a clear timeline, with full transparency.",
+    "heroSub": "Average sale cycle: 30–45 days. A real marketing plan, professional listing presentation, and weekly reporting on viewings and buyer feedback.",
+    "ctaPrimary": "Request a valuation",
+    "ctaPrimaryPrefill": "Hi Daniil! I'd like a valuation — writing from your site.",
+    "ctaSecondary": "How the process is built",
+    "stats": {
+      "cycleLabel": "Average sales cycle",
+      "cycleValue": "30–45 days",
+      "valuationLabel": "Valuation built on real DLD transactions",
+      "valuationValue": "in 24 hours",
+      "soldLabel": "Closed deals in Dubai Hills",
+      "soldValue": "tens of millions AED"
+    },
+    "painsTitle": "Where most listings stall",
+    "painsSub": "The recurring reasons a property sits unsold or trades below market.",
+    "pains": [
+      { "title": "Listed for months without traction", "fix": "My average cycle: 30–45 days." },
+      { "title": "Walk-ins instead of qualified buyers", "fix": "Every buyer is qualified before the viewing." },
+      { "title": "Weak visual presentation", "fix": "Professional photography, drone, and developer-grade post-production." },
+      { "title": "No regular feedback loop", "fix": "Weekly report: viewings, feedback, listing analytics." }
+    ],
+    "processTitle": "How the process is built",
+    "processSub": "Five steps that separate \"sitting on the portal\" from \"sold.\"",
+    "process": [
+      { "n": "01", "title": "Professional photography", "body": "Photographer, drone, twilight session. The property is presented the way the target buyer expects to see it." },
+      { "n": "02", "title": "Post-production", "body": "Perspective and lighting correction, light virtual staging where the interior is empty." },
+      { "n": "03", "title": "Marketing plan", "body": "Bayut TruBroker, Property Finder SuperAgent, social channels, private database, broker network distribution." },
+      { "n": "04", "title": "Weekly reporting", "body": "Listing views, inbound calls, viewings conducted, detailed buyer feedback — every week." },
+      { "n": "05", "title": "Buyer qualification", "body": "Only buyers matching the budget, intent, and timeline reach the viewing." }
+    ],
+    "caseEyebrow": "Case",
+    "caseTitle": "Dubai Hills · HAB",
+    "caseValue": "Tens of millions AED · Sold",
+    "caseBody": "A series of closed transactions in Dubai Hills (HAB) over recent cycles. Specific addresses and figures available on request under NDA.",
+    "caseDisclaimer": "Specific figures and addresses available on request under NDA.",
+    "ctaBlockTitle": "A valuation of your property in 24 hours",
+    "ctaBlockSub": "Built on real DLD transactions and current market analytics. No inflated expectations and no promises I can't keep."
+  },
+  "buyers": {
+    "metaTitle": "For End Users · Buy a Dubai property · Whitewill",
+    "metaDescription": "Property sourcing and end-to-end transaction support in Dubai. Off-market access, all key districts, bilingual EN/RU, finance background (King's College London).",
+    "heroTitle": "Buy in Dubai — matched to your goals, budget, and horizon.",
+    "heroSub": "Off-market access, ROI and cash-on-cash analysis, and transaction support from reservation to DLD. Bilingual EN/RU.",
+    "ctaPrimary": "Get a shortlist",
+    "ctaSecondary": "See districts",
+    "valuesTitle": "Why work with me",
+    "values": [
+      { "title": "Off-market access", "body": "Personal portfolio, Whitewill listings, and inter-broker channels — including stock that never reaches public search." },
+      { "title": "All key districts", "body": "Downtown, Marina, Palm Jumeirah, Dubai Hills, Creek Harbour, Business Bay, JVC — and beyond." },
+      { "title": "Two-language process", "body": "Negotiations, paperwork, banking, DLD — handled in your language, with no nuance lost in translation." },
+      { "title": "Finance background", "body": "King's College London plus finance experience. ROI, cash-on-cash, payment plans, and mortgage scenarios — modelled, not guessed." }
+    ],
+    "districtsTitle": "Where we look",
+    "districtsSub": "Selected average prices by district, Q1 2026.",
+    "processTitle": "How it works",
+    "process": [
+      { "n": "01", "title": "Brief", "body": "Goal, budget, holding horizon, risk profile. Thirty minutes is enough to know what to look for." },
+      { "n": "02", "title": "Shortlist", "body": "Properties curated against your brief. Viewings only happen on what genuinely fits." },
+      { "n": "03", "title": "End-to-end transaction", "body": "Reservation, NOC, DLD, bank, residency. I run every step." }
+    ],
+    "ctaBlockTitle": "Tell me what you're looking for",
+    "ctaBlockSub": "I'll prepare a shortlist with ROI analysis within 48 hours."
+  },
+  "tenants": {
+    "metaTitle": "For Investors · Yield-focused Dubai property · Whitewill",
+    "metaDescription": "Investment-grade Dubai property focused on rental yield. ROI and DBR analysis, mortgage support, exit strategy from day one.",
+    "heroTitle": "Dubai real estate as an income instrument.",
+    "heroSub": "Properties selected for rental yield, deal economics modelled in full, mortgage support, and an exit strategy planned at entry.",
+    "ctaPrimary": "Find a yield property",
+    "valuesTitle": "What you get",
+    "values": [
+      { "title": "Above-market yield", "body": "Properties screened on verified rental performance, not headline numbers." },
+      { "title": "Mortgage support", "body": "Bank relationships, DBR analysis, and rate optimisation." },
+      { "title": "Clean entry, planned exit", "body": "The exit scenario is built at entry — not retrofitted later." }
+    ],
+    "districtsTitle": "Where yields are higher",
+    "districtsSub": "Yield-led districts.",
+    "ctaBlockTitle": "Earn from Dubai property",
+    "ctaBlockSub": "I'll source the property and walk you through the full ROI and cash-on-cash maths."
+  },
+  "about": {
+    "metaTitle": "About · Daniil Shalabaev · Real estate broker in Dubai",
+    "metaDescription": "Daniil Shalabaev. King's College London graduate, Master's in International Business Management from Lomonosov Moscow State University (MSU). Corporate finance at Alfa-Bank in Moscow, then Sales Manager at Sobha in Dubai. Today — broker with Whitewill. Bilingual EN/RU. Finance background and a real grasp of deal economics.",
+    "eyebrow": "About",
+    "title": "Daniil Shalabaev",
+    "subtitle": "King's College London and MSU graduate",
+    "quote": "A deal is always about the person. The numbers serve the goal, not the other way around.",
+    "intro": "I'm Daniil — a real estate broker in Dubai with Whitewill. Before real estate: corporate finance at Alfa-Bank in Moscow. King's College London graduate; Master's in International Business Management from Lomonosov Moscow State University (MSU). Before Whitewill: Sales Manager at Sobha, one of Dubai's leading developers.",
+    "timelineTitle": "Path",
+    "timeline": [
+      { "place": "Moscow · Alfa-Bank", "role": "Corporate finance", "body": "Career start: financial analysis and transaction support in mid-market corporate banking." },
+      { "place": "London", "role": "King's College London", "body": "Graduate, followed by a Master's in International Business Management at Lomonosov Moscow State University (MSU). International environment, analytical foundation." },
+      { "place": "Dubai · Sobha", "role": "Sales Manager", "body": "The developer market from the inside: project sourcing, budgeting, buyer logic — among ~600 sales managers, a sharp competitive school." },
+      { "place": "Dubai · Whitewill", "role": "Broker", "body": "Today: True Broker, SuperAgent, personal and company stock, average cycle 30–45 days." }
+    ],
+    "developersTitle": "Developer partners",
+    "developersIntro": "Whitewill is a top-tier sales partner for the developers shaping Dubai and Abu Dhabi today. That means earlier access to launches, broker-only inventory and direct lines to project teams — not portal scraps.",
+    "developers": [
+      { "name": "Emaar", "body": "Dubai's largest publicly listed developer. Behind Burj Khalifa, Downtown, Dubai Marina, Dubai Hills, Emaar Beachfront. Benchmark for liquidity on resale." },
+      { "name": "Aldar", "body": "Abu Dhabi's largest listed developer, founded 2004. Yas Island, Saadiyat, Al Reem — gateway for end users shifting capital from Dubai into the capital." },
+      { "name": "DAMAC", "body": "Major luxury and high-rise developer. Branded residences with Cavalli, de Grisogono, Versace; DAMAC Hills, DAMAC Lagoons." },
+      { "name": "Meraas", "body": "Government-backed lifestyle developer. City Walk, Bluewaters, La Mer, Port de La Mer — destination-led communities." },
+      { "name": "Sobha", "body": "Premium build-quality developer with vertically integrated construction. Sobha Hartland, MBR City — favoured by end-users who care about finish." },
+      { "name": "Nakheel", "body": "Master-developer behind Palm Jumeirah, Palm Jebel Ali, Dubai Islands. Defines waterfront supply at the top of the market." },
+      { "name": "Select Group", "body": "Boutique luxury developer focused on Dubai Marina and waterfront. Six Senses Residences, Peninsula, Jumeirah Living Marina Gate." },
+      { "name": "Binghatti", "body": "Fast-moving design-led developer. Branded collaborations with Mercedes-Benz, Bugatti, Jacob & Co; strong yields in Business Bay and JVC." },
+      { "name": "Modon", "body": "Abu Dhabi master-developer behind Hudayriyat Island and select Reem schemes. Government-backed, long-horizon master plans." }
+    ],
+    "strengthsTitle": "What this means for you",
+    "strengths": [
+      "True Broker — Bayut",
+      "SuperAgent — Property Finder",
+      "Off-market access — personal + Whitewill",
+      "Bilingual EN/RU"
+    ],
+    "philosophyTitle": "Approach",
+    "philosophyBody": "A finance background is a habit of running the numbers. Cash-on-cash, ROI, exit scenarios — we speak the same language. I don't sell emotion. I offer maths and a clear choice."
+  },
+  "insights": {
+    "metaTitle": "Insights · Dubai market analytics",
+    "metaDescription": "Short pieces on the Dubai real estate market: DLD transactions, district growth, trends.",
+    "title": "Insights",
+    "sub": "Dubai market, district growth, trends — short, no fluff.",
+    "readMore": "Read",
+    "minutes": "{count} min read",
+    "publishedOn": "Published",
+    "relatedTitle": "Related",
+    "allTags": "All",
+    "backToList": "← All articles"
+  },
+  "cta": {
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "propertyFinder": "Property Finder profile",
+    "bayut": "Bayut profile",
+    "email": "Send email",
+    "form": {
+      "name": "Name",
+      "phone": "Phone or WhatsApp",
+      "message": "What you need",
+      "submit": "Send",
+      "consent": "By clicking \"Send\" you agree to data processing.",
+      "successTitle": "Thank you!",
+      "successBody": "I'll get back to you within a few hours."
+    },
+    "whatsappPrefill": "Hi Daniil! I'd like to discuss Dubai real estate.",
+    "offmarketPrefill": "Hi Daniil! Interested in your private / off-market list in Dubai."
+  },
+  "footer": {
+    "tagline": "Real estate broker in Dubai. Whitewill. True Broker (Bayut), SuperAgent (Property Finder).",
+    "rights": "© {year}. All rights reserved.",
+    "languages": "Languages",
+    "links": "Sections",
+    "contacts": "Contacts"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "next": "Next",
+    "prev": "Back",
+    "close": "Close",
+    "scrollDown": "Scroll down"
+  }
+}
